@@ -23,7 +23,7 @@ From the plot below, we can say the our data is balanced and it does not need to
 
 We built several models and the best one so far is Random Forest model
 
-![RF.png](attachment:RF.png)
+![](image/RF.png)
 
 ## Future work
 
