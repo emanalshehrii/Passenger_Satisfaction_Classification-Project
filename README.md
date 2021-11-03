@@ -2,4 +2,5 @@
 
 **Below are the links to different sections of project 3**
 
-Project proposal [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/propsal_AirlinePassengerSatisfaction.md)
+Proposal of Airline Passenger Satisfaction [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/propsal_AirlinePassengerSatisfaction.md)
+MVP of Airline Passenger Satisfaction [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/AirlinePassengerSatisfaction_MVP.md)
