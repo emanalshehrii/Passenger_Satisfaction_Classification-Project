@@ -19,7 +19,7 @@ After cleaning the data set the remain rows are 86388
 
 From the plot below, we can say the our data is balanced and it does not need to implement a resampling methods.
 
-(image/balane_data.png)
+![](image/balane_data.png)
 
 We built several models and the best one so far is Random Forest model
 
