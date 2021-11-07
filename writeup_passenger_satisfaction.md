@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project worked on a dataset that contains an airline passenger satisfaction survey. The project aimed to build classification models to predict passenger satisfaction and identify which model is outperformed based on accuracy. We have trained our data on eight models which are: KNN models, Descion Tree model, Logistic regression model, Random forest model, Gradient boosting model, XGradient boosting model, Naive bayes model and Support vector machain model. The best accuracy among these algorithms is 95.81% % of Polynomial degree 2 with Random Forest Classifier.
+This project worked on a dataset that contains an airline passenger satisfaction survey. The project aimed to build classification models to predict passenger satisfaction and identify which model is outperformed based on accuracy. We have trained our data on eight models which are: KNN models, Descion Tree model, Logistic regression model, Random forest model, Gradient boosting model, XGradient boosting model, Naive bayes model and Support vector machain model. The best accuracy among these algorithms is 95.93% % of Polynomial degree 2 with Random Forest Classifier.
 
 ## Goals
 
