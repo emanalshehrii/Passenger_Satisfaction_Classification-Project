@@ -6,4 +6,4 @@
 - MVP of Airline Passenger Satisfaction [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/AirlinePassengerSatisfaction_MVP.md)
 - WriteUp of Airline Passenger Satisfaction [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/writeup_passenger_satisfaction.md)
 - Code of Airline Passenger Satisfaction [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/classification_project_finall.ipynb)
-- 
+- PDF of presentation [click here](https://github.com/emanalshehrii/Airline_Passenger_Satisfaction_ClassificationModels/blob/main/Prediction%20of%20Airline%20Passenger_final.pdf)
